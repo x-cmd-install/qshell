@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 16046334,
       "digest": "sha256:dff90552db84d3ebfbfb3de46292c11a3a241cef60bccadd808695714f2cb12e",
-      "download_count": 32,
+      "download_count": 35,
       "created_at": "2026-08-11T02:33:57Z",
       "updated_at": "2026-08-11T02:33:58Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.12/qshell-v2.19.12-darwin-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16099869,
       "digest": "sha256:19edaf7337f08609d2570b6e1337ca5a912bfe45155133a6b7fc66efa53bf965",
-      "download_count": 508,
+      "download_count": 516,
       "created_at": "2026-08-11T02:50:20Z",
       "updated_at": "2026-08-11T02:50:21Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.12/qshell-v2.19.12-linux-amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 14195677,
       "digest": "sha256:2f426bb05f9bb79e9deb549fe1fe47bde420517e674064f068cd3d7ebe518b1a",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-11T03:11:02Z",
       "updated_at": "2026-08-11T03:11:03Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.12/qshell-v2.19.12-linux-mipsle.tar.gz"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 15499088,
       "digest": "sha256:887d5845410f432d0c19c5ed67b6c8d0864a4836c3f98f931a46a43e349401d2",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-11T03:34:26Z",
       "updated_at": "2026-08-11T03:34:27Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.12/qshell-v2.19.12-linux-riscv64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 16368973,
       "digest": "sha256:e22367b5068651eefae597a3b240531de522731c14a810afd4bfe549557beb79",
-      "download_count": 119,
+      "download_count": 120,
       "created_at": "2026-08-11T03:44:49Z",
       "updated_at": "2026-08-11T03:44:49Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.12/qshell-v2.19.12-windows-amd64.zip"
