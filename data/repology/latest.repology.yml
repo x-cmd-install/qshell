@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: qshell
   visiblename: qshell
-  version: 2.19.12
+  version: 2.19.13
   origversion: null
   status: unique
   summary: Shell Tools for Qiniu Cloud
