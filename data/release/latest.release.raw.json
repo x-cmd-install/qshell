@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16128940,
       "digest": "sha256:4b544c10c394d92bfea3187f5701c52dcbf71544f3000791db34d2c20beae1f6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T09:37:33Z",
       "updated_at": "2026-09-11T09:37:34Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.13/qshell-v2.19.13-linux-amd64.tar.gz"
