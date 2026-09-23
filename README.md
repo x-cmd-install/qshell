@@ -4,7 +4,7 @@
 
 Shell Tools for Qiniu Cloud
 
-[![x-cmd/install — qshell Code Quality Monitoring Repo Card](https://repo.x-cmd.io/qshell.svg)](https://x-cmd.com/install/qshell)
+[![x-cmd/install — qshell Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/qshell.svg)](https://x-cmd.com/install/qshell)
 
 ## Install
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-07-24 | 3 | 3 | 0 | 1 | 0 | 3 |
-| 90d | 2026-06-24 | 5 | 6 | 1 | 1 | 0 | 7 |
-| last180d | 2026-03-26 | 13 | 25 | 1 | 1 | 0 | 53 |
-| 360d | 2025-09-27 | 16 | 32 | 1 | 1 | 0 | 64 |
-| last720d | 2024-10-02 | 19 | 38 | 1 | 2 | 1 | 90 |
+| 30d | 2026-08-24 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last60d | 2026-07-25 | 3 | 3 | 0 | 1 | 0 | 3 |
+| 90d | 2026-06-25 | 5 | 6 | 1 | 1 | 0 | 7 |
+| last180d | 2026-03-27 | 13 | 25 | 1 | 1 | 0 | 53 |
+| 360d | 2025-09-28 | 16 | 32 | 1 | 1 | 0 | 64 |
+| last720d | 2024-10-03 | 19 | 38 | 1 | 2 | 1 | 90 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for qshell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:09:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:06:32Z._
