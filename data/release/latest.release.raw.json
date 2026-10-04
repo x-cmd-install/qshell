@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 15286461,
       "digest": "sha256:3a2b39e7bf49131634dae86ff29502e14a22ce60b92ef7906db36e9d23e4a460",
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2026-09-11T09:25:57Z",
       "updated_at": "2026-09-11T09:25:58Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.13/qshell-v2.19.13-darwin-arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 16128940,
       "digest": "sha256:4b544c10c394d92bfea3187f5701c52dcbf71544f3000791db34d2c20beae1f6",
-      "download_count": 111,
+      "download_count": 113,
       "created_at": "2026-09-11T09:37:33Z",
       "updated_at": "2026-09-11T09:37:34Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.13/qshell-v2.19.13-linux-amd64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:57e3a12f291f254ba436ef8bbb636cb974d538e80d552c996041fbd8a8a8e78d",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T10:27:47Z",
       "updated_at": "2026-09-11T10:27:47Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.13/qshell-v2.19.13-windows-386.zip.md5"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:4bd350c6fe3024934665da53807bdc0c327523c69ebf34e0273f8acb68eb9bb6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-11T10:34:37Z",
       "updated_at": "2026-09-11T10:34:37Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.19.13/qshell-v2.19.13-windows-amd64.zip.md5"
