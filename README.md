@@ -41,8 +41,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.20.0` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Latest**: `v2.20.1` (2026-11-06)
+- **Last commit**: 2026-11-06
 - **Assets in release**: 32
 
 ## Popularity
@@ -51,55 +51,55 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 156 · **Open PRs**: 2 · **Closed issues**: 236 · **Open issues**: 35 · **Commits**: 1950
+- **Releases**: 47 · **Merged PRs**: 157 · **Open PRs**: 2 · **Closed issues**: 237 · **Open issues**: 34 · **Commits**: 1951
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-07 | 2 | 2 | 1 | 0 | 0 | 2 |
-| 90d | 2026-08-08 | 3 | 3 | 1 | 0 | 0 | 3 |
-| last180d | 2026-05-10 | 8 | 12 | 2 | 1 | 0 | 24 |
-| 360d | 2025-11-11 | 17 | 33 | 2 | 1 | 0 | 65 |
-| last720d | 2024-11-16 | 18 | 36 | 2 | 2 | 1 | 85 |
+| 30d | 2026-10-08 | 2 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-08 | 3 | 3 | 1 | 0 | 0 | 3 |
+| 90d | 2026-08-09 | 4 | 4 | 1 | 0 | 0 | 4 |
+| last180d | 2026-05-11 | 9 | 13 | 2 | 1 | 0 | 25 |
+| 360d | 2025-11-12 | 18 | 34 | 2 | 1 | 0 | 66 |
+| last720d | 2024-11-17 | 19 | 37 | 2 | 3 | 0 | 86 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [qshell-v2.20.0-darwin-amd64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-darwin-amd64.tar.gz) | 15.4 MiB | `native/darwin/x64` |
-| [qshell-v2.20.0-darwin-amd64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
-| [qshell-v2.20.0-darwin-arm64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-darwin-arm64.tar.gz) | 14.6 MiB | `native/darwin/arm64` |
-| [qshell-v2.20.0-darwin-arm64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
-| [qshell-v2.20.0-linux-386.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-386.tar.gz) | 14.5 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-386.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-386.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-amd64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-amd64.tar.gz) | 15.4 MiB | `native/linux/x64` |
-| [qshell-v2.20.0-linux-amd64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
-| [qshell-v2.20.0-linux-arm.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-arm.tar.gz) | 14.1 MiB | `native/linux/arm` |
-| [qshell-v2.20.0-linux-arm.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-arm.tar.gz.md5) | 33 B | `native/linux/arm` |
-| [qshell-v2.20.0-linux-arm64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-arm64.tar.gz) | 14.4 MiB | `native/linux/arm64` |
-| [qshell-v2.20.0-linux-arm64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
-| [qshell-v2.20.0-linux-loong64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-loong64.tar.gz) | 14.6 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-loong64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-loong64.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-mips.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips.tar.gz) | 13.9 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-mips.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-mips64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips64.tar.gz) | 14.1 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-mips64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips64.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-mips64le.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips64le.tar.gz) | 13.6 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-mips64le.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mips64le.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-mipsle.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mipsle.tar.gz) | 13.6 MiB | `native/unknown` |
-| [qshell-v2.20.0-linux-mipsle.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-mipsle.tar.gz.md5) | 33 B | `other` |
-| [qshell-v2.20.0-linux-riscv64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-riscv64.tar.gz) | 14.8 MiB | `native/linux/riscv64` |
-| [qshell-v2.20.0-linux-riscv64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-linux-riscv64.tar.gz.md5) | 33 B | `native/linux/riscv64` |
-| [qshell-v2.20.0-windows-386.zip](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-386.zip) | 14.9 MiB | `native/win/x64` |
-| [qshell-v2.20.0-windows-386.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-386.zip.md5) | 33 B | `native/win/x64` |
-| [qshell-v2.20.0-windows-amd64.zip](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-amd64.zip) | 15.7 MiB | `native/win/x64` |
-| [qshell-v2.20.0-windows-amd64.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
-| [qshell-v2.20.0-windows-arm.zip](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-arm.zip) | 14.3 MiB | `native/win/x64` |
-| [qshell-v2.20.0-windows-arm.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-arm.zip.md5) | 33 B | `native/win/x64` |
-| [qshell-v2.20.0-windows-arm64.zip](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-arm64.zip) | 14.5 MiB | `native/win/arm64` |
-| [qshell-v2.20.0-windows-arm64.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.0/qshell-v2.20.0-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
+| [qshell-v2.20.1-darwin-amd64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-darwin-amd64.tar.gz) | 8.1 MiB | `native/darwin/x64` |
+| [qshell-v2.20.1-darwin-amd64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-darwin-amd64.tar.gz.md5) | 33 B | `native/darwin/x64` |
+| [qshell-v2.20.1-darwin-arm64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-darwin-arm64.tar.gz) | 7.5 MiB | `native/darwin/arm64` |
+| [qshell-v2.20.1-darwin-arm64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-darwin-arm64.tar.gz.md5) | 33 B | `native/darwin/arm64` |
+| [qshell-v2.20.1-linux-386.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-386.tar.gz) | 7.4 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-386.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-386.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-amd64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-amd64.tar.gz) | 7.9 MiB | `native/linux/x64` |
+| [qshell-v2.20.1-linux-amd64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-amd64.tar.gz.md5) | 33 B | `native/linux/x64` |
+| [qshell-v2.20.1-linux-arm.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-arm.tar.gz) | 7.3 MiB | `native/linux/arm` |
+| [qshell-v2.20.1-linux-arm.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-arm.tar.gz.md5) | 33 B | `native/linux/arm` |
+| [qshell-v2.20.1-linux-arm64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-arm64.tar.gz) | 7.2 MiB | `native/linux/arm64` |
+| [qshell-v2.20.1-linux-arm64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-arm64.tar.gz.md5) | 33 B | `native/linux/arm64` |
+| [qshell-v2.20.1-linux-loong64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-loong64.tar.gz) | 7.4 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-loong64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-loong64.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-mips.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips.tar.gz) | 6.9 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-mips.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-mips64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips64.tar.gz) | 6.8 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-mips64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips64.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-mips64le.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips64le.tar.gz) | 6.7 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-mips64le.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mips64le.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-mipsle.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mipsle.tar.gz) | 6.8 MiB | `native/unknown` |
+| [qshell-v2.20.1-linux-mipsle.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-mipsle.tar.gz.md5) | 33 B | `other` |
+| [qshell-v2.20.1-linux-riscv64.tar.gz](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-riscv64.tar.gz) | 7.5 MiB | `native/linux/riscv64` |
+| [qshell-v2.20.1-linux-riscv64.tar.gz.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-riscv64.tar.gz.md5) | 33 B | `native/linux/riscv64` |
+| [qshell-v2.20.1-windows-386.zip](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-386.zip) | 7.7 MiB | `native/win/x64` |
+| [qshell-v2.20.1-windows-386.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-386.zip.md5) | 33 B | `native/win/x64` |
+| [qshell-v2.20.1-windows-amd64.zip](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-amd64.zip) | 8.1 MiB | `native/win/x64` |
+| [qshell-v2.20.1-windows-amd64.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-amd64.zip.md5) | 33 B | `native/win/x64` |
+| [qshell-v2.20.1-windows-arm.zip](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-arm.zip) | 7.5 MiB | `native/win/x64` |
+| [qshell-v2.20.1-windows-arm.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-arm.zip.md5) | 33 B | `native/win/x64` |
+| [qshell-v2.20.1-windows-arm64.zip](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-arm64.zip) | 7.3 MiB | `native/win/arm64` |
+| [qshell-v2.20.1-windows-arm64.zip.md5](https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-arm64.zip.md5) | 33 B | `native/win/arm64` |
 
 ## Improve this data
 
@@ -110,4 +110,4 @@ Install metadata for qshell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:49:40Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:08:47Z._
