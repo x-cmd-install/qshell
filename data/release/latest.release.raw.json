@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:7fdcf3925af8a2f54d52da32e318a58d545a6e07623c58dccae367da795f3cb7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-06T07:59:41Z",
       "updated_at": "2026-11-06T07:59:41Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-darwin-arm64.tar.gz.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8290585,
       "digest": "sha256:f172e4e6fa0a991f96d9a5c167da57f530e93d471c146942620bb584ef218e55",
-      "download_count": 1,
+      "download_count": 6,
       "created_at": "2026-11-06T08:12:03Z",
       "updated_at": "2026-11-06T08:12:03Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:f1a15e18b0f819081ca32aa22e4c41f46b8550f53cf09914557d3795fe4028b8",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-06T08:12:04Z",
       "updated_at": "2026-11-06T08:12:04Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-linux-amd64.tar.gz.md5"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 8504650,
       "digest": "sha256:5b827e778c3607f0bd3411aa688b7e804f5361ee26876134176191488f426daf",
-      "download_count": 3,
+      "download_count": 13,
       "created_at": "2026-11-06T09:06:06Z",
       "updated_at": "2026-11-06T09:06:06Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-amd64.zip"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:c9d4e5749fdf900f7e50362d60e1571106fd88c28b0aaac8c07a7c1c1f52a3e3",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-06T09:06:07Z",
       "updated_at": "2026-11-06T09:06:08Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.20.1/qshell-v2.20.1-windows-amd64.zip.md5"
