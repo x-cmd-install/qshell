@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 5 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-13 | 5 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-14 | 6 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-16 | 11 | 13 | 0 | 1 | 0 | 16 |
-| 360d | 2025-11-17 | 21 | 37 | 0 | 1 | 0 | 69 |
-| last720d | 2024-11-22 | 22 | 40 | 0 | 2 | 0 | 89 |
+| 30d | 2026-10-14 | 5 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-14 | 5 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-15 | 6 | 6 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-17 | 11 | 13 | 0 | 1 | 0 | 16 |
+| 360d | 2025-11-18 | 21 | 37 | 0 | 1 | 0 | 69 |
+| last720d | 2024-11-23 | 22 | 40 | 0 | 2 | 0 | 89 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for qshell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:28:53Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T06:51:07Z._
