@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8818210,
       "digest": "sha256:2c6d84c4b3e37c33f48ea973fc409bae9a6c150927d9350c3717f96362905944",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-11T09:43:53Z",
       "updated_at": "2026-11-11T09:43:54Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.21.2/qshell-v2.21.2-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8071461,
       "digest": "sha256:94f60af00e396f27ac5a5828e6f756c00cffb5ab40f2b73e69b5b49161536ea7",
-      "download_count": 5,
+      "download_count": 11,
       "created_at": "2026-11-11T09:47:21Z",
       "updated_at": "2026-11-11T09:47:22Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.21.2/qshell-v2.21.2-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 33,
       "digest": "sha256:9ec4ecfe4823a91b286a9bf5c23e63c60bda3a5ba8c516b90010cf6b0ce89437",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-11T09:47:23Z",
       "updated_at": "2026-11-11T09:47:23Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.21.2/qshell-v2.21.2-darwin-arm64.tar.gz.md5"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8649599,
       "digest": "sha256:1fbd76f7fb433f324b0e7062f1fc7884a36878b8a78b2efcf5e6e70683c31df9",
-      "download_count": 14,
+      "download_count": 24,
       "created_at": "2026-11-11T09:54:37Z",
       "updated_at": "2026-11-11T09:54:38Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.21.2/qshell-v2.21.2-linux-amd64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 8876351,
       "digest": "sha256:5304bd10b2b7f170d67e9e1459157551faee40b94fdbaac7365d8e60fb903166",
-      "download_count": 2,
+      "download_count": 5,
       "created_at": "2026-11-11T10:38:28Z",
       "updated_at": "2026-11-11T10:38:28Z",
       "browser_download_url": "https://github.com/qiniu/qshell/releases/download/v2.21.2/qshell-v2.21.2-windows-amd64.zip"
