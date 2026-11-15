@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,021 · **Forks**: 199 · **Open issues**: 271 · **Contributors**: 34
+- **Stars**: 1,022 · **Forks**: 199 · **Open issues**: 271 · **Contributors**: 34
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 5 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-15 | 5 | 5 | 0 | 0 | 0 | 5 |
-| 90d | 2026-08-16 | 6 | 6 | 0 | 0 | 0 | 6 |
-| last180d | 2026-05-18 | 11 | 13 | 0 | 1 | 0 | 16 |
-| 360d | 2025-11-19 | 21 | 37 | 0 | 1 | 0 | 69 |
-| last720d | 2024-11-24 | 22 | 40 | 0 | 2 | 0 | 89 |
+| 30d | 2026-10-16 | 5 | 5 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-16 | 5 | 5 | 0 | 0 | 0 | 5 |
+| 90d | 2026-08-17 | 6 | 6 | 0 | 0 | 0 | 6 |
+| last180d | 2026-05-19 | 11 | 13 | 0 | 1 | 0 | 16 |
+| 360d | 2025-11-20 | 21 | 36 | 0 | 1 | 0 | 64 |
+| last720d | 2024-11-25 | 22 | 40 | 0 | 2 | 0 | 89 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for qshell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:29:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:36:01Z._
