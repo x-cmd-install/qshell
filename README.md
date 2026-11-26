@@ -24,6 +24,16 @@ Total: **36,402** lines of code across **364** files in the top 5 languages.
 | Yaml | 24 | 1 | 3 | 1 |
 | Dockerfile | 11 | 0 | 5 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **4.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/qiniu/qshell>
@@ -47,12 +57,12 @@ Total: **36,402** lines of code across **364** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 7 | 8 | 0 | 0 | 0 | 9 |
-| last60d | 2026-09-26 | 7 | 8 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-27 | 8 | 9 | 0 | 0 | 0 | 10 |
-| last180d | 2026-05-29 | 13 | 16 | 0 | 1 | 0 | 20 |
-| 360d | 2025-11-30 | 22 | 37 | 0 | 1 | 0 | 68 |
-| last720d | 2024-12-05 | 24 | 43 | 0 | 1 | 0 | 93 |
+| 30d | 2026-10-27 | 7 | 8 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 7 | 8 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 8 | 9 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 13 | 16 | 0 | 1 | 0 | 0 |
+| 360d | 2025-12-01 | 22 | 37 | 0 | 1 | 0 | 0 |
+| last720d | 2024-12-06 | 24 | 43 | 0 | 1 | 0 | 93 |
 
 ## Release assets
 
@@ -98,4 +108,4 @@ Install metadata for qshell lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:41:18Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:33:25Z._
